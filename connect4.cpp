@@ -13,7 +13,7 @@ if he/she wants to play again, if answer is "1" program runs again.
 ** Input: 1) a number of rows and a number of columns as a user input
 or command line arguments. 2) column where to drop a piece
 ** Output: empty board, updated board after each move and error/winning messages.
-At the end there is a prompt message if user wants to play again.
+At the end of the game there is a prompt message if users want to play again.
 *******************************************************************/
 
 #include <iostream>
